@@ -1,0 +1,21 @@
+.sidebar{
+    display: flex;
+    height: calc(100vh - 100px);
+}
+
+
+.side-div{
+    display: table;
+    width: 100px;
+    background-color: antiquewhite;
+}
+
+.btn-div{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.clickme{
+    height: 60px;
+}
